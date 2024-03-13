@@ -8,6 +8,10 @@
         {
             "src": "prediction.py",
             "use": "@vercel/python"
+        },
+        {
+            "src": "preprocess.py",
+            "use": "@vercel/python"
         }
     ],
     "routes": [
