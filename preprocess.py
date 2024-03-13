@@ -1,6 +1,5 @@
 import pickle
 
-# Tokenization, Stemming, Vectorization
 
 
 with open("vectorizer.pkl", "rb") as file:
