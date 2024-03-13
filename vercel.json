@@ -14,7 +14,7 @@
             "use": "@vercel/python"
         },
         {
-            "apiTimeout": 90
+            "apiTimeout": 60
         }  
     ],
     "routes": [
