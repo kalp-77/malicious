@@ -12,10 +12,7 @@
         {
             "src": "preprocess.py",
             "use": "@vercel/python"
-        },
-        {
-            "apiTimeout": 60
-        }  
+        } 
     ],
     "routes": [
         {
